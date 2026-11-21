@@ -1,0 +1,7 @@
+Let's make a game!
+	name:Idle City
+	author:KRui
+	desc:A game where you build a city.
+	created:20/11/2026
+	updated:20/11/2026
+	version:0
