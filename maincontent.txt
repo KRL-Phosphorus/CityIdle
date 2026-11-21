@@ -5,3 +5,10 @@ Let's make a game!
 	created:20/11/2026
 	updated:20/11/2026
 	version:0
+
+Settings
+	//background:  /  tiling background:
+	building cost increase:125%
+	building cost refund:0%
+	//spritesheet:Name, X by Y, url.jpg
+	//stylesheet:url
