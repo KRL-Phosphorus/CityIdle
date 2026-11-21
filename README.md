@@ -1,1 +1,1 @@
-This is an Ortiel's Idle Game Maker game.
+This is an Orteil's Idle Game Maker game.
